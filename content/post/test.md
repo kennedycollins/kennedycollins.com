@@ -11,3 +11,4 @@ draft = false
 If you can read this at http://kennedycollins.com.s3-website.us-east-2.amazonaws.com/ then I did the thing and we're working!
 
 Second time--had to actually turn on the functions.
+Third time... something is up?
