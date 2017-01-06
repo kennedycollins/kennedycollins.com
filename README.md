@@ -1,3 +1,10 @@
-Going to keep tinkering here; but right now generating from hugo isn't working. I've got S3 buckets happening, so I'm going to try to get something working in the middle, pulling from an input bucket and dumping to an output bucket. Maybe a node-based generator like Hexo.
+This is (currently) a proof of concept for a Hugo site automatically generated when I push new content to this github repo.
+It's live-ish (still need to do DNS) at http://kennedycollins.com.s3-website.us-east-2.amazonaws.com/.
+---
+Resources used include
 https://github.com/nytlabs/github-s3-deploy
-
+http://bezdelev.com/post/hugo-aws-lambda-static-website/
+https://github.com/ryansb/hugo-lambda
+and a million stack overflow threads
+---
+Longer blog post about the process forthcoming.
